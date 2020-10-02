@@ -5,7 +5,7 @@ CSV Reader made in C#. Allows you to view CSV files as a table.
 - Choosing file in explorer window
 - Proper loading file
 - Viewing the csv file 
-- Choosing separator
+- Choosing delimiter
 ![alt text](https://github.com/Robakuuu/Simple-CSV-Reader/blob/master/SS2.jpg)
 
  
